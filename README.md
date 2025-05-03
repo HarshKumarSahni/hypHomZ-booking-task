@@ -6,9 +6,6 @@ A full-stack booking application that allows users to:
 - Calculate total price
 - Save booking information to the database
 
-## Live Demo
-[Add your deployed URL here]
-
 ## Features
 - Modern React frontend with Material-UI
 - Node.js/Express backend
@@ -25,7 +22,7 @@ A full-stack booking application that allows users to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/booking-app.git
+git clone https://github.com/HarshKumarSahni/booking-app.git
 cd booking-app
 ```
 
@@ -92,8 +89,8 @@ booking-app/
 This project is licensed under the MIT License.
 
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/your-username/booking-app](https://github.com/your-username/booking-app)
+Your Name - Harsh Kumar Sahni
+Project Link: [https://github.com/HarshKumarSahni/booking-app](https://github.com/HarshKumarSahni/booking-app)
 
 ## Usage
 1. Select the desired quantity of the product
