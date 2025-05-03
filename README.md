@@ -85,11 +85,8 @@ booking-app/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-Your Name - Harsh Kumar Sahni
+Name - Harsh Kumar Sahni
 Project Link: [https://github.com/HarshKumarSahni/booking-app](https://github.com/HarshKumarSahni/booking-app)
 
 ## Usage
